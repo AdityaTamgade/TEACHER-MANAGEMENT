@@ -1,3 +1,7 @@
+Deployed on Vercel: teacher-management-xweo.vercel.app
+
+
+
 
 MY LOOM VIDEO LINK https://www.loom.com/share/6cba2f16724c46f982dfd23d5d66badd?sid=76e9bc14-3369-4d6c-85c9-6b582d7701e8
 
