@@ -1,4 +1,5 @@
-Deployed on Vercel: teacher-management-xweo.vercel.app
+Deployed on Vercel: teacher-management-theta.vercel.app
+
 
 
 
