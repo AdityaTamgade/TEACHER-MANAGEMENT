@@ -37,7 +37,7 @@ export default function Sidebar() {
 
       {/* Sidebar */}
       <aside
-        className={`fixed top-0 left-0 h-full w-64 bg-[#111827] text-white p-4 space-y-6 z-40 transform transition-transform duration-300 ease-in-out
+        className={`fixed top-0 left-0 h-100 w-64 bg-[#111827] text-white p-4 space-y-6 z-40 transform transition-transform duration-300 ease-in-out
         ${isOpen ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 md:relative md:block`}
       >
         <div className="text-xl font-bold mb-4">📚 Teacher Management</div>
